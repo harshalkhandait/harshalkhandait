@@ -52,6 +52,11 @@ I take great care in the experience, architecture, and code quality of the thing
   <img align="left" alt="Harshal Khandait | LinkedIn" width="40px" src="https://img.icons8.com/fluency/48/000000/linkedin.png" />
 </a>
 
+
+
+<br />
+<br />
+
 <h4> Competetive Coding Profiles </h4>
 <a href="https://www.linkedin.com/in/harshal-khandait/">
   <img align="left" alt="Harshal Khandait | CodeChef" width="40px" src="https://img.icons8.com/ios/50/000000/codechef.png"/>
