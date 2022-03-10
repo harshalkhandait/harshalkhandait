@@ -57,7 +57,7 @@ I take great care in the experience, architecture, and code quality of the thing
 <br />
 <br />
 
-<h4> Competetive Coding Profiles </h4>
+<h4> Competitive Programming Profiles </h4>
 <a href="https://www.linkedin.com/in/harshal-khandait/">
   <img align="left" alt="Harshal Khandait | CodeChef" width="40px" src="https://img.icons8.com/ios/50/000000/codechef.png"/>
 </a>
