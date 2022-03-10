@@ -65,6 +65,6 @@ I take great care in the experience, architecture, and code quality of the thing
   <img align="left" alt="Harshal Khandait | Hackerrank" width="40px" src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/96/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-filled-tal-revivo.png"/>
 </a>
 <a href="https://leetcode.com/harshalkhandait799/" >
-  <imgalign="left" alt="Harshal Khandait | Hackerrank" width="40px" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png"/>
+  <imgalign="left" alt="Harshal Khandait | LeetCode" width="40px" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png"/>
 </a>
 
